@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wan-ecommerce/static/css/main.1a0a9d2b.css",
+    "main.js": "/wan-ecommerce/static/js/main.71262acc.js",
+    "index.html": "/wan-ecommerce/index.html",
+    "main.1a0a9d2b.css.map": "/wan-ecommerce/static/css/main.1a0a9d2b.css.map",
+    "main.71262acc.js.map": "/wan-ecommerce/static/js/main.71262acc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a0a9d2b.css",
+    "static/js/main.71262acc.js"
+  ]
+}
